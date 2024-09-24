@@ -1,7 +1,8 @@
 @media screen and (max-width: 1000px){
     body{
-        background-color: aqua;
+        background-color: yellow;
     }
+
 
     .item-1-esq{
         display: none;
@@ -54,11 +55,33 @@
         left: -80px;
         
     }
+
+    .item-1-esq:hover, .item-1-esq:active,
+    .item-2-esq:hover, .item-2-esq:active,
+    .item-3-esq:hover, .item-3-esq:active,
+    .item-4-esq:hover, .item-4-esq:active{
+        transform: scale(1.1) rotate(-10deg);
+    }
+
+    .item-5-center:hover, .item-5-center:active{
+        transform: scale(1.1);
+    }
+
+    .item-6-dir:hover, .item-6-dir:active,
+    .item-7-dir:hover, .item-7-dir:active,
+    .item-8-dir:hover, .item-8-dir:active,
+    .item-9-dir:hover, .item-9-dir:active{
+        transform: scale(1.1) rotate(10deg);
+    }
 }
 
 @media screen and (max-width: 600px){
     body{
-        background-color: blueviolet;
+        background-color: yellow;
+    }
+
+    .box-img{
+        height: 40vh;
     }
 
     img{
@@ -121,7 +144,7 @@
 
 @media screen and (max-width: 480px){
     body{
-        background-color: rgb(31, 197, 31);
+        background-color: yellow;
     }
 
     img{
