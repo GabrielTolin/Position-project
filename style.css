@@ -40,7 +40,9 @@ main{
 
 h1{
     text-align: center;
-    padding: 5vh;
+    font-family: monospace;
+    position: relative;
+    top: 130px;  
 }
 
 .box-img{
