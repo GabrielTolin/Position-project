@@ -1,0 +1,184 @@
+@media screen and (max-width: 1000px){
+    body{
+        background-color: aqua;
+    }
+
+    .item-1-esq{
+        display: none;
+    }
+    
+    .item-2-esq{
+        display: none;
+    }
+    
+    .item-3-esq{
+        position: relative;
+        
+    }
+    
+    .item-4-esq{
+        position: relative;
+        
+    }
+    
+    .item-5-center{
+        position: relative;
+        top: 200px;
+        
+        
+    }
+    
+    .item-6-dir{
+        display: none;
+        
+    
+    }
+    
+    .item-7-dir{
+        display: none;
+        
+        
+    }
+    
+    .item-8-dir{
+        position: relative;
+        top: 160px;
+        left: -40px;
+        
+        
+    }
+    
+    .item-9-dir{
+        position: relative;
+        top: 120px;
+        left: -80px;
+        
+    }
+}
+
+@media screen and (max-width: 600px){
+    body{
+        background-color: blueviolet;
+    }
+
+    img{
+        width: 100px;
+        height: 200px;
+    }
+
+    .item-1-esq{
+        display: none;
+    }
+    
+    .item-2-esq{
+        display: none;
+    }
+    
+    .item-3-esq{
+        position: relative;
+        
+    }
+    
+    .item-4-esq{
+        position: relative;
+        
+    }
+    
+    .item-5-center{
+        position: relative;
+        top: 200px;
+        
+        
+    }
+    
+    .item-6-dir{
+        display: none;
+        
+    
+    }
+    
+    .item-7-dir{
+        display: none;
+        
+        
+    }
+    
+    .item-8-dir{
+        position: relative;
+        top: 160px;
+        left: -40px;
+        
+        
+    }
+    
+    .item-9-dir{
+        position: relative;
+        top: 120px;
+        left: -80px;
+        
+    }
+}
+
+@media screen and (max-width: 480px){
+    body{
+        background-color: rgb(31, 197, 31);
+    }
+
+    img{
+        width: 100px;
+        height: 200px;
+    }
+
+    .item-1-esq{
+        display: none;
+    }
+    
+    .item-2-esq{
+        display: none;
+    }
+    
+    .item-3-esq{
+        position: relative;
+        
+    }
+    
+    .item-4-esq{
+        position: relative;
+        
+    }
+    
+    .item-5-center{
+        position: relative;
+        top: 200px;
+        
+        
+    }
+    
+    .item-6-dir{
+        display: none;
+        
+    
+    }
+    
+    .item-7-dir{
+        display: none;
+        
+        
+    }
+    
+    .item-8-dir{
+        position: relative;
+        top: 160px;
+        left: -40px;
+        
+        
+    }
+    
+    .item-9-dir{
+        position: relative;
+        top: 120px;
+        left: -80px;
+        
+    }
+
+}
